@@ -158,6 +158,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionview
   byebug
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
